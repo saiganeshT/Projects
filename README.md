@@ -1,3 +1,3 @@
 # Projects
 
-contains some projects done by me
+contains some projects done
